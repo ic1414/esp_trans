@@ -1,3 +1,5 @@
+# new [version](https://github.com/ic1414/esp_trans_v2)
+
 # esp_trans
 
 可以用遥控直接调pid !!!。
